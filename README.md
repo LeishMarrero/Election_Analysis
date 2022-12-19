@@ -30,7 +30,7 @@ In our Python script, we created a txt file to write our results.
 
 We achieved the Largest County Turnout result with the following code:
 
-`` 
+``` 
     #6a: Write a for loop to get the county from the county dictionary
     for county_name in county_votes:
         #6b: Retrieve the county vote count.
@@ -57,7 +57,7 @@ We achieved the Largest County Turnout result with the following code:
     #8: Save the county with the largest turnout to a text file.
     txt_file.write(largest_county_summary)
     
-``
+```
 
 ## Election-Audit Summary
 Using this python script allowed us to run a large set of data with algorithms to achieve all the results we were aiming for. This script can also be used for other elections. For example, in a presidential race you can determine votes per state. You can also include what party they are running for. Some modifications, you'll need to make are:
