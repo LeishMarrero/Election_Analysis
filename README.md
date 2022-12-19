@@ -33,22 +33,30 @@ We achieved the Largest County Turnout result with the following code:
 `` 
     #6a: Write a for loop to get the county from the county dictionary
     for county_name in county_votes:
-        # 6b: Retrieve the county vote count.
+        #6b: Retrieve the county vote count.
         votes_county = county_votes.get(county_name)
-        # 6c: Calculate the percentage of votes for the county.
+        #6c: Calculate the percentage of votes for the county.
         county_percentage = float(votes_county) / float(total_votes) * 100
-
-         # 6d: Print the county results to the terminal.
+        #6d: Print the county results to the terminal.
         county_results = (
             f'{county_name}: {county_percentage:.1f}% ({votes_county:,})\n')
-         # 6e: Save the county votes to a text file.
+        #6e: Save the county votes to a text file.
         print(county_results)
-        #  Save the candidate results to our text file.
+        #Save the candidate results to our text file.
         txt_file.write(county_results)
-         # 6f: Write an if statement to determine the winning county and get its vote count.
+        #6f: Write an if statement to determine the winning county and get its vote count.
         if (votes_county > largest_votes): 
             largest_votes = votes_county
             largest_county = county_name
+    #7: Print the county with the largest turnout to the terminal.
+    largest_county_summary = (
+        f'\n-------------------------\n'
+        f'Largest County Turnout: {largest_county}\n'
+        f'-------------------------\n')
+    print(largest_county_summary)
+    #8: Save the county with the largest turnout to a text file.
+    txt_file.write(largest_county_summary)
+    
 ``
 
 ## Election-Audit Summary
