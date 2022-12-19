@@ -1,6 +1,6 @@
 # Election Analysis 
 ## Overview of Election Audit
-The Colorado Board of Elections needed an election analysis performed to certify a U.S. Congressional race. Python and Visual Studio Code were used to write algorithms that confirm and analyze the election results. Our Python script shows the following information:
+An election analysis was performed for the Colorado Board of Elections to certify a U.S. Congressional race. Python and Visual Studio Code were used to write algorithms that confirmed and analyzed the election results. Our Python script shows the following information:
 - Total number of votes casted
 - List of counties, how many votes received, and percentage of votes
 - List of candidates who received votes, how many votes received, and percentage of votes
