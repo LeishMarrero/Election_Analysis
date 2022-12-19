@@ -22,7 +22,7 @@ The following are the candidates:
   - Diana DeGette received 73.8% of the votes, equal to 272,892 votes.
   - Raymon Anthony Doane received 3.1% of the votes, equal to 11,606 votes.
 
-### Diana DeGette won the election by popular vote with 272,892 votes equalling to 73.8%
+**Diana DeGette won the election by popular vote with 272,892 votes equalling to 73.8%**
 
 In our Python script, we created a txt file to write our results. 
 
