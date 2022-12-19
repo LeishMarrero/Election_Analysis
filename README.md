@@ -27,7 +27,30 @@ The following are the candidates:
 In our Python script, we created a txt file to write our results. 
 
 ![election_analysistxfile](election_analysistxfile.png)
-    
+
+We achieved the Largest County Turnout result with the following code:
+
+`` 
+    #6a: Write a for loop to get the county from the county dictionary
+    for county_name in county_votes:
+        # 6b: Retrieve the county vote count.
+        votes_county = county_votes.get(county_name)
+        # 6c: Calculate the percentage of votes for the county.
+        county_percentage = float(votes_county) / float(total_votes) * 100
+
+         # 6d: Print the county results to the terminal.
+        county_results = (
+            f'{county_name}: {county_percentage:.1f}% ({votes_county:,})\n')
+         # 6e: Save the county votes to a text file.
+        print(county_results)
+        #  Save the candidate results to our text file.
+        txt_file.write(county_results)
+         # 6f: Write an if statement to determine the winning county and get its vote count.
+        if (votes_county > largest_votes): 
+            largest_votes = votes_county
+            largest_county = county_name
+``
+
 ## Election-Audit Summary
 Using this python script allowed us to run a large set of data with algorithms to achieve all the results we were aiming for. This script can also be used for other elections. For example, in a presidential race you can determine votes per state. You can also include what party they are running for. Some modifications, you'll need to make are:
 - Changing the file to load and file to save path
