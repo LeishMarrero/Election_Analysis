@@ -21,7 +21,12 @@ The following are the candidates:
   - Charles Casper Stockham received 23.0% of the votes, equal to 85,213 votes.
   - Diana DeGette received 73.8% of the votes, equal to 272,892 votes.
   - Raymon Anthony Doane received 3.1% of the votes, equal to 11,606 votes.
-  
-### Diana DeGette won the election by popular vote with 73.8% of the votes.
+
+### Diana DeGette won the election by popular vote with 272,892 votes equalling to 73.8%
+
+In our Python script, we created a txt file to write our results. These are our results,
+
+![election_analysistxfile](election_analysistxfile.png)
+
 ## Election-Audit Summary
 provide a business proposal to the election commission on how this script can be used - with some modifications - for any election. Give two examples of how this script can be modifies to be used for other elctions
