@@ -8,7 +8,8 @@ An election analysis was performed for the Colorado Board of Elections to certif
 ## Election-Audit Results
 The following are the results for the Election-Audit:
 - Total Votes: 369,711
-- Total number of Votes & Percentages of Votes per County
+- Total number of Votes & Percentages of Votes per County:
+
   - Jefferson received 10.5% of the votes, equal to 38,855 votes.
   - Denver received 82.8% of the votes, equal to 306,055 votes.
   - Arapahoe received 6.7% of the votes, equal to 24,801 votes.
@@ -16,6 +17,7 @@ The following are the results for the Election-Audit:
 The county with the largest number of votes was Denver.
 
 The following are the candidates:
+
   -Charles Casper Stockham received 23.0% of the votes, equal to 85,213 votes.
   -Diana DeGette received 73.8% of the votes, equal to 272,892 votes.
   -Raymon Anthony Doane received 3.1% of the votes, equal to 11,606 votes.
