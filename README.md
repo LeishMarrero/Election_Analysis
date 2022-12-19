@@ -18,9 +18,9 @@ The county with the largest number of votes was Denver.
 
 The following are the candidates:
 
-  -Charles Casper Stockham received 23.0% of the votes, equal to 85,213 votes.
-  -Diana DeGette received 73.8% of the votes, equal to 272,892 votes.
-  -Raymon Anthony Doane received 3.1% of the votes, equal to 11,606 votes.
+  - Charles Casper Stockham received 23.0% of the votes, equal to 85,213 votes.
+  - Diana DeGette received 73.8% of the votes, equal to 272,892 votes.
+  - Raymon Anthony Doane received 3.1% of the votes, equal to 11,606 votes.
   
 ### Diana DeGette won the election by popular vote with 73.8% of the votes.
 ## Election-Audit Summary
