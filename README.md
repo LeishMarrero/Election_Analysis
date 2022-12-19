@@ -6,10 +6,17 @@ An election analysis was performed for the Colorado Board of Elections to certif
 - List of candidates who received votes, how many votes received, and percentage of votes
 - Winner of the election based on popular vote
 ## Election-Audit Results
-Total Votes
-County Votes
-Largest number of votes
-breakdown of the number of votes and the percentage of the total votes each candidate received
-Which candidate won the election, vote count, and percentage of votes
+The following are the results for the Election-Audit:
+- Total Votes: 369,711
+- Total number of Votes & Percentages of Votes per County
+  - Jefferson received 10.5% of the votes, equal to 38,855 votes.
+  - Denver received 82.8% of the votes, equal to 306,055 votes.
+  - Arapahoe received 6.7% of the votes, equal to 24,801 votes.
+The county with the largest number of votes was Denver.
+The following are the candidates:
+  -Charles Casper Stockham received 23.0% of the votes, equal to 85,213 votes.
+  -Diana DeGette received 73.8% of the votes, equal to 272,892 votes.
+  -Raymon Anthony Doane received 3.1% of the votes, equal to 11,606 votes.
+### Diana DeGette won the election by popular vote with 73.8% of the votes.
 ## Election-Audit Summary
 provide a business proposal to the election commission on how this script can be used - with some modifications - for any election. Give two examples of how this script can be modifies to be used for other elctions
