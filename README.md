@@ -24,7 +24,7 @@ The following are the candidates:
 
 ### Diana DeGette won the election by popular vote with 272,892 votes equalling to 73.8%
 
-In our Python script, we created a txt file to write our results. These are our results,
+In our Python script, we created a txt file to write our results. 
 
 ![election_analysistxfile](election_analysistxfile.png)
 
