@@ -5,7 +5,7 @@ An election analysis was performed for the Colorado Board of Elections to certif
 - List of counties, how many votes received, and percentage of votes
 - List of candidates who received votes, how many votes received, and percentage of votes
 - Winner of the election based on popular vote
-## Election-Audit Results
+## Election Audit Results
 The following are the results for the Election-Audit:
 - Total Votes: 369,711
 - Total number of Votes & Percentages of Votes per County:
@@ -60,7 +60,7 @@ We achieved the Largest County Turnout result with the following code:
 ```
 
 ## Election-Audit Summary
-Using this python script allowed us to run a large set of data with algorithms to achieve all the results we were aiming for. This script can also be used for other elections. For example, in a presidential race you can determine votes per state. You can also include what party they are running for. Some modifications, you'll need to make are:
+Using this Python script allowed us to run a large set of data with algorithms to achieve all the results we were aiming for. This script can also be used for other elections. For example, in a presidential race you can determine votes per state. You can also include what party they are running for. Some modifications, you'll need to make are:
 - Changing the file to load and file to save path
 - Change county votes for state votes
 - Create a "Candidate_Party" Dictionary
